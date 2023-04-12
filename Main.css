@@ -1,0 +1,13 @@
+.Navbar-section01 {
+    justify-content: end;
+}
+
+.nav-link {
+    margin: 0 13px;
+}
+
+.nav-item:active
+{  
+    background-color: #5eaeb1;
+    
+}
